@@ -1,3 +1,5 @@
 *.png
+!og-image.png
 __pycache__/
 shot.js
+full-page.png
